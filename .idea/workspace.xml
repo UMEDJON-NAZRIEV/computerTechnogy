@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fefe0b32-0da9-4435-a94c-15da440ff0e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/css/@media/media1.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/css/animate/anime.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/css/font/fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/js/helpers/import.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.f998d1f5c887ad881d0f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.f998d1f5c887ad881d0f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Fb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/HTML_CSS.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/JavaScript_Vue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Tel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Whatsapp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/face.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/foo2 .png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/foo3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/foo4 .png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/foo5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/foo6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/footer1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/project1png.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/project2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/project3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/siluet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/viber.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/polyfill.f998d1f5c887ad881d0f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/Fb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/HTML_CSS.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/Instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/JavaScript_Vue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/Tel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/Twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/Whatsapp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/face.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/foo2 .png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/foo3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/foo4 .png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/foo5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/foo6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/footer1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/project1png.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/project2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/project3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/siluet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/viber.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/css/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/js/aniamtion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/js/import.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/js/other.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1wUxn0ASbzF1WE5sOLlufyySgmZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fefe0b32-0da9-4435-a94c-15da440ff0e2" name="Default Changelist" comment="" />
+      <created>1628527132179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628527132179</updated>
+      <workItem from="1628527133355" duration="318000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="shellPath" value="E:\Git\bin\bash.exe" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="171" key="FileChooserDialogImpl" timestamp="1628527460783">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="171" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1628527460783" />
+    <state x="301" y="75" key="SettingsEditor" timestamp="1628527463248">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="75" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1628527463248" />
+  </component>
+</project>
