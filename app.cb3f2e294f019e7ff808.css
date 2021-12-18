@@ -151,6 +151,10 @@ img {
   border-style: none;
 }
 
+.study__parts-item.line.line-left {
+    margin-right: auto;
+}
+
 /* Forms
    ========================================================================== */
 
